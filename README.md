@@ -1,4 +1,4 @@
-# IngSw2-Project Assignment
+# SE2-Project Assignment
 The government of a large city aims at optimizing its taxi service. In particular, it wants to: i) simplify the access of passengers to the service, and ii) guarantee a fair management of taxi queues.
 Passengers can request a taxi either through a web application or a mobile app. The system answers to the request by informing the passenger about the code of the incoming taxi and the waiting time.
 Taxi drivers use a mobile application to inform the system about their availability and to confirm that they are going to take care of a certain call.
