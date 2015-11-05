@@ -5,7 +5,9 @@ abstract sig Notify{
 	notifyID: String,
 	message: String,
 	waitingTime: String,
-	cabID: TaxiCab
+	cabID: TaxiCab,
+	reservationID: Reservation,
+    notification: Notification
 }
 
 abstract sig Reservation{
@@ -29,7 +31,9 @@ sig Passenger extends User{
 	telephoneNumber: one String,
 	emailAddress: one String,
 	userID: one String,
-	password: one String
+	password: one String,
+	reservationID: Reservation,
+	notification: Notification
 }
 
 sig TaxiDriver extends User{
@@ -40,7 +44,9 @@ sig TaxiDriver extends User{
 	username: one String,
 	password: one String,
 	licenseID: one String,
-	driverStatus: one DriverStatus
+	driverStatus: one DriverStatus,
+	reservationID: Reservation,
+	taxiID: TaxiCab
 }
 
 sig TaxiCab{
@@ -51,16 +57,19 @@ sig TaxiCab{
 sig City{
 	name: String,
 	cap: String,
-	state: String
+	state: String,
+	zone: Zone
 }
 
 sig Zone{
 	address: String,
-	queueNumber: Int
+	queueNumber: Int,
+	queueID: Queue
 }
 
 sig Queue{
-	queueID: Int
+	queueID: Int,
+	cabID:TaxiCab
 }
 
 sig Notification{
@@ -118,15 +127,17 @@ assert OnlyRegisteredUser{
 }
 check OnlyRegisteredUser
 
-pred show(){}
+pred show(){
+	#User > 1
+}
 run show for 30
 
 pred addNewPassenger(p,p1,p2:Passenger){
 	p.userID not in p1.userID implies p.userID=p2.userID
 }
-run addNewPassenger for 5
+run addNewPassenger for 10
 
 pred noLessTwoHours(r:Reservation){
 	r.startTime-r.reservationTime>2
 }
-run noLessTwoHours for 5
+run noLessTwoHours for 10
