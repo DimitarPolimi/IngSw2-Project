@@ -1,0 +1,622 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.20)  25 FEB 2016 17:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"DD MyTaxiService.tex"
+(./DD MyTaxiService.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen113
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen114
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks20
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks21
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks22
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(./DD MyTaxiService.aux)
+\openout1 = `"DD MyTaxiService.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-2.73714pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen122
+\scratchbox=\box28
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen123
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Overfull \hbox (6.84604pt too wide) in paragraph at lines 19--23
+[]  \OT1/cmr/m/n/12 Re-lease date 26-02-2016 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--23
+
+ []
+
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./DD MyTaxiService.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `"DD MyTaxiService.toc"'.
+
+ [1
+
+
+]
+Chapter 1.
+[2
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 50.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
+
+Overfull \hbox (17.32248pt too wide) in paragraph at lines 61--62
+[]\OT1/cmr/m/n/12 IEEE Stan-dard 1016-2009 for In-for-ma-tion Technology--Syste
+ms Design--Software
+ []
+
+[3] [4]
+Chapter 2.
+<highlevel.jpg, id=22, 954.56625pt x 599.23875pt>
+File: highlevel.jpg Graphic file (type jpg)
+ <use highlevel.jpg>
+Package pdftex.def Info: highlevel.jpg used on input line 85.
+(pdftex.def)             Requested size: 381.81973pt x 239.69125pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5
+
+] [6 <./highlevel.jpg>] <component.jpg, id=30, 766.865pt x 329.23pt>
+File: component.jpg Graphic file (type jpg)
+
+<use component.jpg>
+Package pdftex.def Info: component.jpg used on input line 90.
+(pdftex.def)             Requested size: 452.44644pt x 194.244pt.
+ [7
+
+ <./component.jpg>]
+<deployment.jpg, id=34, 886.31125pt x 475.7775pt>
+File: deployment.jpg Graphic file (type jpg)
+ <use deployment.jpg>
+Package pdftex.def Info: deployment.jpg used on input line 96.
+(pdftex.def)             Requested size: 443.15454pt x 237.88815pt.
+
+Overfull \hbox (24.90086pt too wide) in paragraph at lines 96--97
+ [] 
+ []
+
+[8
+
+ <./deployment.jpg>] <runtime.jpg, id=38, 1548.78625pt x 1164.35pt>
+File: runtime.jpg Graphic file (type jpg)
+
+<use runtime.jpg>
+Package pdftex.def Info: runtime.jpg used on input line 102.
+(pdftex.def)             Requested size: 464.63947pt x 349.3077pt.
+
+Overfull \hbox (46.38579pt too wide) in paragraph at lines 102--103
+ [] 
+ []
+
+<runtime3.png, id=39, 1110.1475pt x 608.2725pt>
+File: runtime3.png Graphic file (type png)
+ <use runtime3.png>
+Package pdftex.def Info: runtime3.png used on input line 105.
+(pdftex.def)             Requested size: 555.07239pt x 304.13551pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9
+
+ <./runtime.jpg>] [10 <./runtime3.png>]
+<reservetaxi.jpg, id=48, 556.0775pt x 512.91624pt>
+File: reservetaxi.jpg Graphic file (type jpg)
+ <use reservetaxi.jpg>
+Package pdftex.def Info: reservetaxi.jpg used on input line 109.
+(pdftex.def)             Requested size: 278.03807pt x 256.45749pt.
+
+<cancelreservation.png, id=49, 499.8675pt x 284.06125pt>
+File: cancelreservation.png Graphic file (type png)
+
+<use cancelreservation.png>
+Package pdftex.def Info: cancelreservation.png used on input line 113.
+(pdftex.def)             Requested size: 249.93314pt x 142.03026pt.
+ [11
+
+ <./reservetaxi.jpg> <./cancelreservation.png>]
+[12] [13] <componentinterface.jpg, id=61, 1017.8025pt x 736.7525pt>
+File: componentinterface.jpg Graphic file (type jpg)
+
+<use componentinterface.jpg>
+Package pdftex.def Info: componentinterface.jpg used on input line 133.
+(pdftex.def)             Requested size: 407.1138pt x 294.69577pt.
+ [14
+
+ <./componentinterface.jpg>]
+<archstyle.jpg, id=65, 734.745pt x 577.15625pt>
+File: archstyle.jpg Graphic file (type jpg)
+ <use archstyle.jpg>
+Package pdftex.def Info: archstyle.jpg used on input line 149.
+(pdftex.def)             Requested size: 293.89279pt x 230.8584pt.
+ [15 <./archstyle.jpg>] <mvc.png, id=69, 441.65pt x 347.2975pt>
+File: mvc.png Graphic file (type png)
+ <use mvc.png>
+Package pdftex.def Info: mvc.png used on input line 155.
+(pdftex.def)             Requested size: 176.65686pt x 138.91653pt.
+ [16
+
+ <./mvc.png>]
+Chapter 3.
+<request.jpg, id=74, 678.535pt x 740.7675pt>
+File: request.jpg Graphic file (type jpg)
+ <use request.jpg>
+Package pdftex.def Info: request.jpg used on input line 167.
+(pdftex.def)             Requested size: 271.40918pt x 296.30174pt.
+ [17
+
+
+ <./request.jpg>] <algoreserve2.jpg, id=78, 269.005pt x 1024.82875pt>
+File: algoreserve2.jpg Graphic file (type jpg)
+
+<use algoreserve2.jpg>
+Package pdftex.def Info: algoreserve2.jpg used on input line 171.
+(pdftex.def)             Requested size: 134.50217pt x 512.41312pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18 <./algoreserve2.jpg>]
+Chapter 4.
+<Homepage.png, id=83, 594.22pt x 549.05125pt>
+File: Homepage.png Graphic file (type png)
+ <use Homepage.png>
+Package pdftex.def Info: Homepage.png used on input line 181.
+(pdftex.def)             Requested size: 267.39653pt x 247.07077pt.
+ [19
+
+
+ <./Homepage.png>] <login.png, id=88, 256.96pt x 522.95375pt>
+File: login.png Graphic file (type png)
+ <use login.png>
+Package pdftex.def Info: login.png used on input line 191.
+(pdftex.def)             Requested size: 179.87076pt x 366.06512pt.
+ [20
+
+ <./login.png>] <menu.png, id=93, 247.92625pt x 502.87875pt>
+File: menu.png Graphic file (type png)
+ <use menu.png>
+Package pdftex.def Info: menu.png used on input line 203.
+(pdftex.def)             Requested size: 173.54718pt x 352.01273pt.
+ [21
+
+ <./menu.png>] <reservation.png, id=98, 274.02374pt x 512.91624pt>
+File: reservation.png Graphic file (type png)
+
+<use reservation.png>
+Package pdftex.def Info: reservation.png used on input line 213.
+(pdftex.def)             Requested size: 191.8153pt x 359.03893pt.
+ [22
+
+ <./reservation.png>]
+<confirmreservation.png, id=103, 269.005pt x 513.92pt>
+File: confirmreservation.png Graphic file (type png)
+
+<use confirmreservation.png>
+Package pdftex.def Info: confirmreservation.png used on input line 223.
+(pdftex.def)             Requested size: 188.3022pt x 359.74153pt.
+ [23
+
+ <./confirmreservation.png>]
+<recapreservation.png, id=108, 278.03876pt x 521.95pt>
+File: recapreservation.png Graphic file (type png)
+
+<use recapreservation.png>
+Package pdftex.def Info: recapreservation.png used on input line 232.
+(pdftex.def)             Requested size: 194.6258pt x 365.3625pt.
+ [24
+
+ <./recapreservation.png>]
+<taxidriverhome.png, id=114, 251.94125pt x 502.87875pt>
+File: taxidriverhome.png Graphic file (type png)
+
+<use taxidriverhome.png>
+Package pdftex.def Info: taxidriverhome.png used on input line 242.
+(pdftex.def)             Requested size: 176.35767pt x 352.01273pt.
+ [25
+
+ <./taxidriverhome.png>]
+<taxirequest.png, id=119, 269.005pt x 527.9725pt>
+File: taxirequest.png Graphic file (type png)
+ <use taxirequest.png>
+Package pdftex.def Info: taxirequest.png used on input line 252.
+(pdftex.def)             Requested size: 188.3022pt x 369.57823pt.
+
+[26
+
+ <./taxirequest.png>]
+<reservationlist.png, id=124, 259.97125pt x 508.90125pt>
+File: reservationlist.png Graphic file (type png)
+
+<use reservationlist.png>
+Package pdftex.def Info: reservationlist.png used on input line 262.
+(pdftex.def)             Requested size: 181.97862pt x 356.22844pt.
+ [27
+
+ <./reservationlist.png>]
+<taxidrivermap.png, id=129, 280.04625pt x 521.95pt>
+File: taxidrivermap.png Graphic file (type png)
+ <use taxidrivermap.png>
+Package pdftex.def Info: taxidrivermap.png used on input line 273.
+(pdftex.def)             Requested size: 196.03102pt x 365.3625pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--277
+
+ []
+
+[28
+
+ <./taxidrivermap.png>]
+Chapter 5.
+<req1.png, id=134, 1121.18875pt x 490.83376pt>
+File: req1.png Graphic file (type png)
+ <use req1.png>
+Package pdftex.def Info: req1.png used on input line 287.
+(pdftex.def)             Requested size: 448.46756pt x 196.33002pt.
+
+Overfull \hbox (30.21388pt too wide) in paragraph at lines 287--288
+ [] 
+ []
+
+[29
+
+
+ <./req1.png>] <req2.png, id=139, 826.08624pt x 714.67pt>
+File: req2.png Graphic file (type png)
+ <use req2.png>
+Package pdftex.def Info: req2.png used on input line 297.
+(pdftex.def)             Requested size: 413.0421pt x 357.33412pt.
+
+[30
+
+ <./req2.png>] <req3.png, id=145, 533.995pt x 406.51875pt>
+File: req3.png Graphic file (type png)
+ <use req3.png>
+Package pdftex.def Info: req3.png used on input line 306.
+(pdftex.def)             Requested size: 373.79395pt x 284.56117pt.
+
+[31
+
+ <./req3.png>] <req4.png, id=150, 647.41875pt x 677.53125pt>
+File: req4.png Graphic file (type png)
+ <use req4.png>
+Package pdftex.def Info: req4.png used on input line 316.
+(pdftex.def)             Requested size: 388.45424pt x 406.52188pt.
+
+[32
+
+ <./req4.png>] <req5.png, id=155, 967.615pt x 518.93875pt>
+File: req5.png Graphic file (type png)
+ <use req5.png>
+Package pdftex.def Info: req5.png used on input line 325.
+(pdftex.def)             Requested size: 387.03915pt x 207.57182pt.
+
+[33
+
+ <./req5.png>]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--342
+
+ []
+
+[34
+
+] (./DD MyTaxiService.aux) ) 
+Here is how much of TeX's memory you used:
+ 3238 strings out of 493089
+ 44246 string characters out of 6134842
+ 110424 words of memory out of 5000000
+ 6641 multiletter control sequences out of 15000+600000
+ 10409 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,9n,43p,1026b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
+sfonts/symbols/msbm10.pfb>
+Output written on "DD MyTaxiService.pdf" (35 pages, 1168623 bytes).
+PDF statistics:
+ 182 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+
